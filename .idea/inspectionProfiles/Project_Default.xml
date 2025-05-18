@@ -1,0 +1,106 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="92">
+            <item index="0" class="java.lang.String" itemvalue="semantic-version" />
+            <item index="1" class="java.lang.String" itemvalue="colorama" />
+            <item index="2" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="3" class="java.lang.String" itemvalue="wheel" />
+            <item index="4" class="java.lang.String" itemvalue="certifi" />
+            <item index="5" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="6" class="java.lang.String" itemvalue="py-cpuinfo" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="urllib3" />
+            <item index="9" class="java.lang.String" itemvalue="docker" />
+            <item index="10" class="java.lang.String" itemvalue="idna" />
+            <item index="11" class="java.lang.String" itemvalue="faiss-gpu" />
+            <item index="12" class="java.lang.String" itemvalue="jsons" />
+            <item index="13" class="java.lang.String" itemvalue="protobuf" />
+            <item index="14" class="java.lang.String" itemvalue="hexbytes" />
+            <item index="15" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="16" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="17" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="18" class="java.lang.String" itemvalue="setuptools" />
+            <item index="19" class="java.lang.String" itemvalue="pydantic-core" />
+            <item index="20" class="java.lang.String" itemvalue="eth-hash" />
+            <item index="21" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="22" class="java.lang.String" itemvalue="fsspec" />
+            <item index="23" class="java.lang.String" itemvalue="langchain-community" />
+            <item index="24" class="java.lang.String" itemvalue="filelock" />
+            <item index="25" class="java.lang.String" itemvalue="eth-typing" />
+            <item index="26" class="java.lang.String" itemvalue="langchain" />
+            <item index="27" class="java.lang.String" itemvalue="pip" />
+            <item index="28" class="java.lang.String" itemvalue="anyio" />
+            <item index="29" class="java.lang.String" itemvalue="py-ecc" />
+            <item index="30" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="31" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="32" class="java.lang.String" itemvalue="fastdiff" />
+            <item index="33" class="java.lang.String" itemvalue="pydantic" />
+            <item index="34" class="java.lang.String" itemvalue="slither-analyzer" />
+            <item index="35" class="java.lang.String" itemvalue="transformers" />
+            <item index="36" class="java.lang.String" itemvalue="eth-abi" />
+            <item index="37" class="java.lang.String" itemvalue="aiohappyeyeballs" />
+            <item index="38" class="java.lang.String" itemvalue="orjson" />
+            <item index="39" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="40" class="java.lang.String" itemvalue="attrs" />
+            <item index="41" class="java.lang.String" itemvalue="jinja2" />
+            <item index="42" class="java.lang.String" itemvalue="prettytable" />
+            <item index="43" class="java.lang.String" itemvalue="wasmer-compiler-cranelift" />
+            <item index="44" class="java.lang.String" itemvalue="cytoolz" />
+            <item index="45" class="java.lang.String" itemvalue="propcache" />
+            <item index="46" class="java.lang.String" itemvalue="mock" />
+            <item index="47" class="java.lang.String" itemvalue="ckzg" />
+            <item index="48" class="java.lang.String" itemvalue="langsmith" />
+            <item index="49" class="java.lang.String" itemvalue="referencing" />
+            <item index="50" class="java.lang.String" itemvalue="lru-dict" />
+            <item index="51" class="java.lang.String" itemvalue="crytic-compile" />
+            <item index="52" class="java.lang.String" itemvalue="networkx" />
+            <item index="53" class="java.lang.String" itemvalue="antlr4-python3-runtime" />
+            <item index="54" class="java.lang.String" itemvalue="solc-select" />
+            <item index="55" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="56" class="java.lang.String" itemvalue="datasets" />
+            <item index="57" class="java.lang.String" itemvalue="numpy" />
+            <item index="58" class="java.lang.String" itemvalue="bitarray" />
+            <item index="59" class="java.lang.String" itemvalue="wasmer" />
+            <item index="60" class="java.lang.String" itemvalue="eth-account" />
+            <item index="61" class="java.lang.String" itemvalue="jsonschema-specifications" />
+            <item index="62" class="java.lang.String" itemvalue="cbor2" />
+            <item index="63" class="java.lang.String" itemvalue="rpds-py" />
+            <item index="64" class="java.lang.String" itemvalue="eth-rlp" />
+            <item index="65" class="java.lang.String" itemvalue="parameterized" />
+            <item index="66" class="java.lang.String" itemvalue="cached-property" />
+            <item index="67" class="java.lang.String" itemvalue="langchain-ollama" />
+            <item index="68" class="java.lang.String" itemvalue="typish" />
+            <item index="69" class="java.lang.String" itemvalue="snapshottest" />
+            <item index="70" class="java.lang.String" itemvalue="websockets" />
+            <item index="71" class="java.lang.String" itemvalue="eth-keys" />
+            <item index="72" class="java.lang.String" itemvalue="parsimonious" />
+            <item index="73" class="java.lang.String" itemvalue="tzdata" />
+            <item index="74" class="java.lang.String" itemvalue="web3" />
+            <item index="75" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="76" class="java.lang.String" itemvalue="termcolor" />
+            <item index="77" class="java.lang.String" itemvalue="toolz" />
+            <item index="78" class="java.lang.String" itemvalue="eth-keyfile" />
+            <item index="79" class="java.lang.String" itemvalue="rlp" />
+            <item index="80" class="java.lang.String" itemvalue="langchain-core" />
+            <item index="81" class="java.lang.String" itemvalue="pillow" />
+            <item index="82" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="83" class="java.lang.String" itemvalue="multidict" />
+            <item index="84" class="java.lang.String" itemvalue="langchain-text-splitters" />
+            <item index="85" class="java.lang.String" itemvalue="pyunormalize" />
+            <item index="86" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="87" class="java.lang.String" itemvalue="pytz" />
+            <item index="88" class="java.lang.String" itemvalue="eth-utils" />
+            <item index="89" class="java.lang.String" itemvalue="tenacity" />
+            <item index="90" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="91" class="java.lang.String" itemvalue="clip" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
