@@ -44,7 +44,9 @@ pip install -r requirements.txt
 
 Clone the official Wav2Lip repository into the project root directory:
 
-`git clone https://github.com/Rudrabha/Wav2Lip.git`
+```bash
+git clone https://github.com/Rudrabha/Wav2Lip.git
+```
 
 #### b. Wav2Lip Checkpoint (.pth file)
 
