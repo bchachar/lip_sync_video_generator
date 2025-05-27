@@ -40,17 +40,15 @@ pip install -r requirements.txt
 
 ### 4. Download Required Models
 
-#### a. Wav2Lip Checkpoint (.pth file)
+#### a. Clone Wav2Lip Repository
+
+Clone the official Wav2Lip repository into the project root directory:
+
+`git clone https://github.com/Rudrabha/Wav2Lip.git`
+
+#### b. Wav2Lip Checkpoint (.pth file)
 
 Download the `wav2lip.pth` file from [this Hugging Face link](https://huggingface.co/numz/wav2lip_studio/blob/main/Wav2lip/wav2lip.pth) and place it in `./Wav2Lip/checkpoints/`
-
-#### b. Face Detection Model
-
-The S3FD face detection model will be automatically downloaded on first run to:
-
-```
-~/.cache/torch/hub/checkpoints/s3fd-619a316812.pth
-```
 
 ---
 
